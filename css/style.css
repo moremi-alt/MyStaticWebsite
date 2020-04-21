@@ -1,0 +1,19 @@
+
+body{
+    background-color:red;
+}
+h1{
+    color:red;
+}
+p{border:1px solid red;
+background-color: yellow
+padding-top:50px}
+h1{text-align: center;
+}
+h2{text-align:center;
+    color:green;}
+    h3{text-align:center;
+        color:red;
+        table{border:1px solid red;}
+        th{height:50px;}
+
